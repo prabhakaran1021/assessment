@@ -1,0 +1,1 @@
+python3 -m flask --app server run --port 5000 --host "0.0.0.0"
